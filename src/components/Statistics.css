@@ -1,0 +1,22 @@
+.statistics{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+.statistics-title{
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--title-color, #01384D);
+    text-align: center;
+}
+.statistics-subtitle{
+    color: var(--title-color, #01384D);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -65px;
+}

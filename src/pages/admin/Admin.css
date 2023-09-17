@@ -1,0 +1,36 @@
+.nmadr{
+background: var(--1, #01384D);
+width: 220px;
+height: 749px;
+margin-left: -120px;
+margin-top: -68px;
+/* display: flex; */
+}
+
+.admin-title{
+ color: #FFF;
+font-family: Sail;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.container-admin{
+    max-width: 1300px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+.admin-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+.admin-img h1{
+    margin-left: -30px;
+    display: flex;
+    align-items: center;
+}

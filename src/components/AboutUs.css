@@ -1,0 +1,44 @@
+.about{
+    color: var(--title-color, #01384D);
+text-align: center;
+font-family: Raleway;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 100px;
+}
+.about-all{
+    display: flex;
+    justify-content: space-evenly;
+}
+ .cardA{
+    width: 30%;
+    text-align: center;
+    border-radius: 5px;
+border: 2px solid var(--title-color, #01384D);
+background: #FFF;
+} 
+.cardA img{
+    width: 420px;
+}
+
+ .cardA h3{
+    color: var(--title-color, #01384D);
+text-align: center;
+font-family: Raleway;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal; 
+}
+.cardA p{
+    color: var(--title-color, #01384D);
+text-align: center;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; /* 138.889% */
+}
+

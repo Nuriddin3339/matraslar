@@ -1,0 +1,10 @@
+.delete{
+    background-color:#01384D;
+    width: 120px;
+}
+.delete-icon{
+    color: red;
+    border-radius: 5px;
+    background: #f6d0d0;
+    text-align: center;
+}

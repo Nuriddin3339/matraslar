@@ -1,0 +1,45 @@
+.pageNotFound {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .pageNotFound p {
+    text-align: center;
+    color: var(--title-color, #01384D);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  .pageNotFound a {
+    text-decoration: none;
+    color:#333;
+    padding: 5px 8px;
+    border: 2px solid #333;
+    background-color:#fff;
+  
+  }
+
+  .pageNotFound a{
+    border-radius: 5px;
+  }
+  
+  .pageNotFound a:hover {
+    background: #01384D;
+    color:#fff;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .pageNotFound h1{
+    color: var(--title-color, #01384D);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }

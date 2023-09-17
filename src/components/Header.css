@@ -1,0 +1,11 @@
+.bg-color{
+    background: var(--yellow, #EABF9F);
+    width: 1525px;
+    margin-left: -66px;
+    margin-top: -20px;
+    /* width: 100%; */
+    /* margin: 0 auto; */
+}
+.btn-flex{
+    cursor: pointer;
+}

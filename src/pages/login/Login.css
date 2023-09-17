@@ -1,0 +1,28 @@
+.login-form{
+    margin-left: 600px;
+    display: block;
+    margin-top: 120px;
+    margin-bottom: 20px;
+    /* border: 2px solid gray; */
+    /* padding-left: 120px; */
+    /* width:250px; */
+}
+.login-form input{
+    display: block;
+    margin-bottom: 20px;
+    width: 150px;
+    margin-left: -50px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 30px;
+}
+.login-form button{
+    width: 185px;
+    margin-left: -50px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+}

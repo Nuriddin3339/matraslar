@@ -1,0 +1,57 @@
+.corusel{
+    margin-top: 100px;
+}
+
+.title{
+    font-size: 70px;
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    margin-left: 164px;
+    width: 560px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 80px;
+    margin-top: -90px; 
+}
+
+
+.all{
+    position: relative;
+}
+
+.zzz{
+    width: 700px;
+    margin-left: 662px;
+    margin-top: -220px;
+}
+
+.arrow{
+width: 30px;
+height: 15px;
+margin-top: 5px;
+}
+.btn-arrow{
+    position: relative;
+    display: flex;
+    text-decoration: none;
+
+}
+
+.btnn{
+    display: flex;
+    height: 40px;
+    width: 190px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 5px;
+    border: 2px solid var(--title-color, #01384D);
+    background: #FFF;
+    margin-left: 100px;
+    margin-top: -50px;
+}

@@ -1,0 +1,32 @@
+.ariza-container{
+    text-align: center;
+    /* margin-top:100%; */
+}
+
+.ariza-container  p{
+    margin-top: 30px;
+    color: var(--title-color, #01384D);
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.ariza-container h1{
+    padding-top: 60px;
+    color: var(--title-color, #01384D);
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px; /* 122.222% */
+}
+
+.close-icon{
+    margin-left: 1480px;
+    position: absolute;
+    margin-top: -160px;
+    cursor: pointer;
+    
+}

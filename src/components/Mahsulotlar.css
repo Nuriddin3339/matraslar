@@ -1,0 +1,289 @@
+.mahsulot-trr{
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+.mahsulot-delete{
+    background-color:#f4bebe;
+    color: red;
+    border-radius: 5px;
+}
+.mahsulot-bgc{
+    background-color: #01384D;
+}
+.mahsulotlar-btn{
+    border-radius: 8px;
+    background: var(--1, #01384D);
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    width: 135px;
+    height: 40px;
+    margin-left: 920px;
+    margin-top: -10px;
+}
+
+
+.mahsulotlar-backdrop {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background:rgba(0, 0, 0, 0.5);
+  }
+  .mahsulotlar-modal {
+    padding: 30px;
+    max-width: 1200px;
+    margin: 200px auto;
+    background: #fff;
+    position: relative;
+  }
+  .mahsulot-title{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+
+  .mahsulot-closeIcon{
+    background: var(--1, #01384D);
+    color: #FFF;
+    margin-left: 1194px;
+    border: none;
+    position: absolute;
+    margin-top: -30px;
+  }
+  .mahsulot-type{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .mahsulot-select{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-type-name{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-type-name-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    outline: none;
+    line-height: normal;
+  }
+  .mahsulot-cost{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-cost-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    outline: none;
+    line-height: normal;
+  }
+  .mahsulot-weight{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-weight-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    outline: none;
+    line-height: normal;
+  }
+  .mahsulot-size{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+
+  .mahsulot-size-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-kafolat{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-kafolat-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-sigm{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-sigm-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-sale{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 80px;
+  }
+  .mahsulot-sale-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    height: 40px;
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-info{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .mahsulot-info-input{
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    width: 220px;
+    /* height: 40px; */
+    margin-left: 80px;
+    color: #000;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    outline: none;
+  }
+  .mahsulot-switch{
+    margin-left: 74px;
+  }
+  .switch-icon{
+        margin-left: 144px;
+  }
+  .switch-iconn{
+    margin-left: 155px;
+  }
+  .mahsulot-btn{
+    width: 220px;
+    height: 45px;
+    border-radius: 7px;
+    background: var(--1, #01384D);
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    margin-left: 74px;
+  }

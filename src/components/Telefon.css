@@ -1,0 +1,68 @@
+.telefon-title{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: var(--title-color, #01384D);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.telefon-p{
+    color: var(--title-color, #01384D);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    margin-left: 100px;
+}
+
+.telefon-all{
+    display: flex;
+    align-items: center;  
+
+}
+.input-number{
+    margin-left: 500px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    color: #01384D;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.input-number input{
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+
+}
+.telefon-bg{
+    background: var(--yellow, #EABF9F);
+    margin-top: 100px;
+    margin-left: -60px;
+    width: 1519.2px;
+    height: 300px;
+}
+.telefon-btn{
+    border-radius: 5px;
+    background: var(--title-color, #01384D);
+    margin-left: 30px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 150px;
+    border: none;
+}
+form{
+    display: flex;
+    margin-top: 70px;
+}

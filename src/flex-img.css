@@ -1,0 +1,45 @@
+.phone-number{
+    position: relative;
+}
+
+.phone{
+    margin-left:635px;
+    position:absolute;
+    padding-top: 15px;
+    
+}
+.number{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: var(--title-color, #01384D);
+    margin-left: 690px;
+}
+
+.flex-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.btn-flex{
+    border-radius: 5px;
+    border: 2px solid var(--title-color, #01384D);
+    background: #FFF;
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 180px;
+    height: 46px;
+    margin-left: 30px;
+}
+
+/* .bg-color{
+    background-color: #01384D;
+} */

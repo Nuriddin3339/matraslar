@@ -1,0 +1,74 @@
+.footer-a{
+    margin-top: 70px;
+
+}
+.footer-a a {
+    margin-left: 50px;
+    text-decoration: none;
+    color: #0A142F;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.footer-all{
+    display: flex;
+    align-items: center;
+}
+.footer-icon{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.footer-icon a{
+    margin-left: 40px; 
+    color: #0A142F;
+}
+.borderBottom{
+    /* border-bottom: 1px solid gray; */
+    width: 100px;
+}
+hr{
+    width: 1200px;
+    margin-left: -937px;
+    margin-top: 20px;
+}
+.footer-p{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.vizitka{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.vizitka-img{
+    margin-left: 549px;
+    margin-top: 30px;
+}
+.arrowSpan{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 50px;
+    color: #0A142F;
+}
+@keyframes myAnimation {
+    0% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.2);
+      opacity: 0.5;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+  .arrowSpan {
+    animation: myAnimation 2s ease infinite;
+  }
+  
+  

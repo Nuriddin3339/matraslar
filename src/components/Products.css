@@ -1,0 +1,146 @@
+.bg-product{
+    background-color: #F6FBFF;
+    width: 1120px;
+    height: 400px;
+    margin-left: 200px;
+    border: 1px solid #C7DFF5;
+    margin-top: 20px;
+}
+.bg-product span{
+    padding-left: 40px;
+}
+
+.product-name{
+    margin-left: 500px;
+    color: var(--title-color, #01384D);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -30px;
+}
+.product-warranty{
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.product_warranty{
+    color: var(--title-color, #01384D);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+.product-size{
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 70px;
+}
+.product_size{
+    color: var(--title-color, #01384D);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+
+}
+.product-capacity{
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 70px;
+}
+.product_capacity{
+    color: var(--title-color, #01384D);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: end;
+
+}
+.fff{
+    display: flex;
+    padding-left: 510px; 
+    position: relative; 
+}
+.product-body{
+    color: var(--title-color, #01384D);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 26px; /* 162.5% */
+    margin-left: 550px;
+}
+.cost{
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 510px;
+    margin-top: 10px;
+}
+.product-cost{
+    color: var(--title-color, #01384D);
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 510px;
+}
+.som{
+    font-size: 18px;
+    margin-left: -40px;
+}
+.product-img{
+    margin-left: -498px;
+    position: absolute;
+    margin-top: -20px;
+}
+.product-title{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background: var(--red, #FF6B6B);
+    width: 150px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.product-weight{
+    color: var(--title-color, #01384D);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.product_weight{
+    color: var(--title-color, #01384D);
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
